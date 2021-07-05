@@ -2,3 +2,33 @@ body{
     font-family: 'Bona Nova', serif;
     margin:0;
 }
+h1{
+    font-size: 30px;
+    
+}
+.color{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-image: linear-gradient(orange,orangered);
+    border-radius: 15px;
+    color:white;
+    font-weight: 700;
+}
+section{
+   
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width:70%;
+}
